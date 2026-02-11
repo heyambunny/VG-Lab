@@ -2,8 +2,8 @@ import streamlit as st
 from auth_config import ROLES
 from PIL import Image
 
-logo = Image.open("assets/vguard.png")
-st.sidebar.image(logo, width=150)
+# logo = Image.open("assets/vguard.png")
+# st.sidebar.image(logo, width=150)
 
 st.set_page_config(
     page_title="CSV Processing App",
