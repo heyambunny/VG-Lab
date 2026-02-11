@@ -41,7 +41,6 @@ PAGE_MAP = {
     'Ahmedabad Wires Scheme': 'pages/Ahmedabad Wires Scheme.py',
     'data_import': 'pages/data_import.py',
     "Sfdc Data Check": 'pages/Sfdc Data Check.py',
-    'read_data': 'pages/read_data.py',
     'Switch Gear Pan India': 'pages/Switch Gear Pan India.py',
     'Hafele Sales Report':'Hafele Sales Report.py',
     'eSeal':'eSeal.py'
