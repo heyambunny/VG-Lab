@@ -1,6 +1,6 @@
 ROLES = {
     "admin": {
-        "allowed_pages": ["index","msScheme",'Milestone','Hubli Wires Scheme','Retailer Points', 'SG Mega Bonanza','Ahmedabad Wires Scheme','Sfdc Data Check','data_import','read_data','Switch Gear Pan India','Hafele Sales Report','eSeal']
+        "allowed_pages": ["index","msScheme",'Milestone','Hubli Wires Scheme','Retailer Points', 'SG Mega Bonanza','Ahmedabad Wires Scheme','Sfdc Data Check','data_import','Switch Gear Pan India','Hafele Sales Report','eSeal']
     },
     "user": {
         "allowed_pages": [
